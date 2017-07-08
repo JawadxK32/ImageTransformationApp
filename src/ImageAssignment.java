@@ -2,8 +2,8 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.image.*;
 /**
- * CPS109 - Assignment 2
- * @author Jawad Khudadad #500526749
+ * ImageTransformationApp
+ * @author Jawad Khudadad
  *
  */
 public class ImageAssignment {
